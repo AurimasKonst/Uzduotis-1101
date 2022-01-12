@@ -1,0 +1,7 @@
+1. Sukurti paragrafą su tekstu: Čia yra paragrafas +
+2. Sukurti h1 su tekstu: Čia didelis tekstas +
+3. Sukurti sąrašą(ul) su 4 paveikslėliais +
+4. Sukurti 4 išorines nuorodas į Jūsų pasirinktus tinklapius +
+5. Sukurti sąraša su 4 nuorodom, dvi vidinės, dvi išorinės+
+6. Viename iš vidinių failų sukurti 5 išorines nuorodas, kurios turi tekstą  2puslapis+
+7. Kitame vidiniame faile sukurti 5 išorines nuorodas, kurios turi būti atvaizduotos kaip paveikslėliai   3puslapis+
